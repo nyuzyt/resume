@@ -2,14 +2,29 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Douban recommender
-- project: Recommender system
-  duration: 2017 &mdash; 2018
-  description: A film recommending system based on Douban's user rating data. Crawling over
-               200,000 user's rating on 5,000 films, the system is deployed on hdfs, docker.
+- project: Douban Film Recommender System
+  duration: 2019 &mdash; present
+  description:  <ul class="resume-item-list">
+                  <li>Designed and implemented a recommender system based on Douban's user rating data. </li>
+                  <li>Crawled over 20,000 user's rating on 5,000 films with Scrapy.</li>
+                  <li>Build rating matrix with Item Collaborative Filtering Algorithm.</li>
+                  <li>Implemented  the front-end interface using HTML, CSS and JavaScript.</li>
 
-- project: To do list website
-  duration: 2018 &mdash; present
-  description: A RESTful website enables user to creat, edit and delete to-do things.
+
+- project: YelpCamp Website
+  duration: 2018 &mdash; 2019
+  description:  <ul class="resume-item-list">
+                  <li>Designed and implemented a RESTful website with Express and Node.js, where users can create, edit and delete their posts and comments.</li>
+                  <li>Designed and implemented an online MongoDB to store the information of users, posts and comments.</li>
+                </ul>
+
+- project: Interactive Computer Graphics Course Project
+  duration: 2017 &mdash; 2018
+  description:  <ul class="resume-item-list">
+                  <li>Implemented a graphics project with C++ and OpenGL.</li>
+                  <li>Rendered 3D objects with lights, shadow and texture by shader programming.</li>
+                  <li>Implemented an interactive menu which allows the user to choose different effects.</li>
+                </ul>
 
 # # jazznotes.io
 # - project: jazznotes.io

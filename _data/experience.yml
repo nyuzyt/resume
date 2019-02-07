@@ -1,26 +1,25 @@
 # Jobs
 # VP of Global Communications
 - company: NYU, High-Speed Networking Lab
-  duration:  Feb, 2017 &mdash; Present
-  summary: Worked with a ECE PHD student on his project, jobs including
+  position: Graduate Assistant
+  duration:  Feb, 2018 &mdash; Present
+  summary: Assisted a ECE PHD student on his research project on network, jobs including
            <ul class="resume-item-list">
-            <li>Implement software simulation of algorithm</li>
-            <li>Write scripts to test and record the performance.</li>
+            <li>Implemented software simulation of switch and routing logic.</li>
+            <li>Built a real time CAB (CAching in Bucket) system in python.</li>
+            <li>Designed and implemented a hierarchical packet scheduler system in C++.</li>
+            <li>Wrote scripts to test system and document the performance.</li>
            </ul>
 
 # Director of Digital Stratgy
 - company: MingShi Investment
-  position: SDE Intern
+  position: Quantitative Trading Internship
   duration:  Jan, 2017 &mdash; Jun, 2017
-  summary: Designed and implemented a Cgo middleware to download data into influxdb.
-           Implement up-to-date machine learning algorithms on predicting stock trend and
-           measure the performance.
-
-# Communications Coordinator
-- company: SJTU, Visual Media and Data Management Lab
-  position: SDE Intern
-  duration:  Jul, 2016  &mdash; Jan, 2017
-  #summary:
+  summary:  <ul class="resume-item-list">
+              <li>Designed and implemented a Cgo middleware to download stock data into influxDB.</li>
+              <li>Implement a Grid-LSTM neural network on predicting stock trend.</li>
+              <li>Achieve a 73% accuracy rate in predicting trend with 3 classification.</li>
+            </ul>
 
 # # VP of Global Communications
 # - company: Springfield International Human Rights Outreach
